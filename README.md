@@ -1,3 +1,3 @@
 # Technical Design Report
 
-Technical Design Report as of 31.03.2023
+TDR version 1.0 (released March 31, 2023)
